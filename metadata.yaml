@@ -1,5 +1,8 @@
 _repo: Why-Colored-People-in-Philadelphia-Are-Excluded-from-the-Street-Cars_61529
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61529-h/images/cover.jpg
 creator:
   author:
     agent_name: Hunt, Benjamin P. (Benjamin Peter)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '51477'
     url: http://www.gutenberg.org/2009/agents/51477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61529#Why-Colored-People-in-Philadelphia-Are-Excluded-from-the-Street-Cars
 gutenberg_issued: '2020-02-28'
 gutenberg_type: Text
 identifiers:
